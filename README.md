@@ -8,10 +8,9 @@ proyectos y mis intereses.
 ## Información personal
 * Nombre: Medardo Moran
 * Ocupación: Estudiante
-* Sitio web: [Tu sitio web]
 ## Proyectos
-* [Lista de tus proyectos]
+* https://github.com/savier018/proyectoEstructuras
+* https://github.com/MelissaCobosC/proyecto2_grupo7
 ## Intereses
 * Desarrollador web, movil.
 * Gestor de base de datos.
--->
